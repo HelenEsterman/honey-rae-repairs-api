@@ -67,7 +67,7 @@
     {
       "id": 1,
       "specialty": "Macbook Pros",
-      "rate": "100",
+      "rate": 100,
       "userId": 4
     },
     {
